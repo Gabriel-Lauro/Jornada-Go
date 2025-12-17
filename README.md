@@ -21,7 +21,7 @@ Aqui estão reunidos **exercícios práticos** desenvolvidos enquanto sigo um cu
 
   🎥 Curso Utilizado
 
-Os exercícios deste repositório foram desenvolvidos com base no curso **Aprenda Go**, versão em português do curso original de **Todd McLeod**
+Os exercícios deste repositório foram desenvolvidos com base no curso **Aprenda Go**, vinspirado no curso original de **Todd McLeod**.
 
 📺 Curso no YouTube:
 🔗 [https://youtu.be/WiGU_ZB-u0w](https://youtu.be/WiGU_ZB-u0w)
